@@ -1,0 +1,1 @@
+If you want test the lua, then copy the glc_lua514.exe file to under the test directory.
